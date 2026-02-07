@@ -9,7 +9,25 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbb1b84e-d8f4-412d-8bc0-506de96f1a8d" name="Changes" comment="" />
+    <list default="true" id="cbb1b84e-d8f4-412d-8bc0-506de96f1a8d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Capture 4.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List View 1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List View 2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List View 3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List View 5.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListView1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListView1/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListView1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListView1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListView1/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListView1/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListView1/app/src/main/res/layout/list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListView1/app/src/main/res/layout/list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListView2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListView2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListView2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListView2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listView3/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/listView3/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listView3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/listView3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listView4/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/listView4/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listView4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/listView4/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +36,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\lab 505-15\.android\avd\Pixel_8.avd)]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -41,10 +59,16 @@
       </state>
     </system>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="39KsO0en7yeHR552mVLvdpE5Aaz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,14 +77,23 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/shafe/Desktop/list-View-5-projects",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shafe\Desktop\list-View-5-projects" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="listView5.app" />
@@ -130,9 +163,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
   </component>
   <component name="TaskManager">
