@@ -1,10 +1,3 @@
-![listView1 techtinkererfullstack](https://github.com/techtinkererfullstack/list-View-5-projects/blob/main/List%20View%201.PNG)
-![listView2 techtinkererfullstack](https://github.com/techtinkererfullstack/list-View-5-projects/blob/main/List%20View%202.PNG)
-![listView3 techtinkererfullstack](https://github.com/techtinkererfullstack/list-View-5-projects/blob/main/List%20View%203.PNG)
-![listView4 techtinkererfullstack](https://github.com/techtinkererfullstack/list-View-5-projects/blob/main/Capture%204.PNG)
-![listView5 techtinkererfullstack](https://github.com/techtinkererfullstack/list-View-5-projects/blob/main/List%20View%205.PNG)
-
-
 <p>
     <img src="https://github.com/techtinkererfullstack/list-View-5-projects/blob/main/List%20View%201.PNG" width="400" height="800" alt="techtinkererfullstack"  >
     <img src="https://github.com/techtinkererfullstack/list-View-5-projects/blob/main/List%20View%202.PNG" width="400" height="800" alt="techtinkererfullstack" >
