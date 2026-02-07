@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:padding="10.dp"
+        android:weightSum="1"
+
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight=".5"
+
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="170.dp"
+                android:layout_height="150.dp"
+                android:src="@drawable/news1">
+
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="170.dp"
+                android:layout_height="wrap_content"
+                android:text="ভোটের মাঠে ব্যারিস্টার ম্যাজিক"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="170.dp"
+                android:layout_height="wrap_content"
+                android:maxLines="2"
+                android:text="ত্রয়োদশ সংসদ নির্বাচন ও গণভোট সামনে রেখে নির্বাচনি মাঠ ক্রমেই হয়ে উঠছে উত্তপ্ত। আর সেই উত্তাপে কেন্দ্রবিন্দুতে উঠে এসেছেন এক ব্যারিস্টার। যিনি ভোটের মাঠে সাবলীল বক্তব্য, প্রতিশ্রুতি আর মানুষের ভালোবাসায় নিজেকে উজাড় করে দিয়ে অঙ্গীকার করছেন আগামীর সমৃদ্ধ এলাকা গড়ার।"
+                android:textStyle="normal" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight=".5"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="170.dp"
+                android:layout_height="150.dp"
+                android:src="@drawable/news2">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="170.dp"
+                android:layout_height="wrap_content"
+                android:text="চায়ের কাপে ভোটের তাপ"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="170.dp"
+                android:layout_height="wrap_content"
+                android:maxLines="2"
+                android:text="নির্বাচনি উত্তাপ এখন তুঙ্গে। ত্রয়োদশ জাতীয় সংসদ নির্বাচন ও গণভোটকে সামনে রেখে শেষ মুহূর্তে সর্বোচ্চ ভোট টানার চেষ্টায় ব্যস্ত রাজনৈতিক দলের প্রার্থী ও কর্মী-সমর্থকেরা।"
+                android:textStyle="normal" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</LinearLayout>
