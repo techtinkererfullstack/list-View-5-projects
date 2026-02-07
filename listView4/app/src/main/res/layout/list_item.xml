@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="20dp"
+    app:cardBackgroundColor="@color/white"
+    >
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <ImageView
+            android:id="@+id/thumbnailTV"
+            android:layout_width="350dp"
+            android:layout_height="230dp"
+            android:src="@drawable/youtube_thumbnail3"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="80.dp"
+           />
+
+        <TextView
+            android:id="@+id/postInformation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="Today we will learn how to create youtube thumbnail"
+            android:textColor="@color/black"
+            android:textSize="14.sp"
+            android:textStyle="bold"
+            android:padding="5dp"
+            app:layout_constraintStart_toStartOf="@id/thumbnailTV"
+            app:layout_constraintEnd_toEndOf="@id/thumbnailTV"
+            app:layout_constraintTop_toBottomOf="@id/designation"
+            android:maxLines="1"/>
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profileTV"
+            android:layout_width="60.dp"
+            android:layout_height="60.dp"
+            android:padding="10.dp"
+            android:src="@drawable/profilepic"
+            app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginStart="20dp"/>
+
+        <TextView
+            android:id="@+id/thumbnailTitleTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="Shafe Alam"
+            android:textColor="@color/black"
+            android:textSize="16.sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@id/profileTV"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/designation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toEndOf="@id/profileTV"
+            android:text="Android Mobile Application Developer"
+            android:textColor="@color/black"
+            android:textStyle="italic"
+            android:textSize="12.sp"
+            app:layout_constraintTop_toBottomOf="@id/thumbnailTitleTV"
+            />
+
+
+
+        <ImageView
+            android:id="@+id/clossBTN"
+            android:layout_width="80.dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/imagelinkedin"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="30.dp"
+            android:layout_marginTop="10dp"
+           />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@id/thumbnailTV"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:weightSum="12"
+            android:padding="15.dp"
+            android:gravity="center_horizontal|center_vertical"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:text="Like"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:text="Comment"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:layout_weight="3"
+                android:text="Repost"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:layout_weight="3"
+                android:text="Send"/>
+
+
+
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>
