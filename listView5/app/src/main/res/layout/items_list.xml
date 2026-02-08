@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     android:orientation="vertical"
 
     >
@@ -21,10 +21,11 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_weight=".5"
-
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:padding="15.dp">
 
             <ImageView
+                android:id="@+id/newsImgV"
                 android:layout_width="170.dp"
                 android:layout_height="150.dp"
                 android:src="@drawable/news1">
@@ -33,12 +34,14 @@
             </ImageView>
 
             <TextView
-                android:layout_width="170.dp"
+                android:id="@+id/newsHeadlineTV"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="ভোটের মাঠে ব্যারিস্টার ম্যাজিক"
                 android:textStyle="bold" />
 
             <TextView
+                android:id="@+id/newsDescriptionTV"
                 android:layout_width="170.dp"
                 android:layout_height="wrap_content"
                 android:maxLines="2"
@@ -53,7 +56,8 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_weight=".5"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:padding="15.dp">
 
             <ImageView
                 android:layout_width="170.dp"
