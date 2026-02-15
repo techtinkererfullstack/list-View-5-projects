@@ -10,23 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbb1b84e-d8f4-412d-8bc0-506de96f1a8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Capture 4.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List View 1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List View 2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List View 3.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List View 5.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListView1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListView1/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListView1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListView1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListView1/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListView1/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListView1/app/src/main/res/layout/list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListView1/app/src/main/res/layout/list_item.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListView2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListView2/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListView2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ListView2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listView3/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/listView3/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listView3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/listView3/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listView4/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/listView4/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listView4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/listView4/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,11 +59,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
